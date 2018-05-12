@@ -24,6 +24,8 @@ creator:
     - http://de.wikipedia.org/wiki/Wilhelm_Busch
     - http://en.wikipedia.org/wiki/Wilhelm_Busch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38902#Buzz-a-Buzz--Or-The-Bees
 gutenberg_issued: '2012-02-16'
 gutenberg_type: Text
 identifiers:
