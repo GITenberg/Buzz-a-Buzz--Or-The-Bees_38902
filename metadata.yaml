@@ -1,0 +1,43 @@
+_repo: Buzz-a-Buzz--Or-The-Bees_38902
+_version: 0.1.0
+alternative_title: Schnurrdiburr. English
+contributor:
+  translator:
+    agent_name: Cotton, William Charles
+    alias: Cotton, W. C. (William Charles)
+    birthdate: 1813
+    deathdate: 1879
+    gutenberg_agent_id: '39705'
+    url: http://www.gutenberg.org/2009/agents/39705
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Busch, Wilhelm
+    alias: Bush, W. (Wilhelm)
+    birthdate: 1832
+    deathdate: 1908
+    gutenberg_agent_id: '4959'
+    url: http://www.gutenberg.org/2009/agents/4959
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Wilhelm_Busch
+    - http://en.wikipedia.org/wiki/Wilhelm_Busch
+description: ''
+gutenberg_issued: '2012-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bees -- Juvenile poetry'
+- !lcsh 'Wit and humor, Pictorial'
+- !lcsh 'Children''s poetry'
+- !lcsh 'Bees -- Caricatures and cartoons'
+- !lcc 'PZ'
+- !lcc 'PT'
+title: Buzz a Buzz; Or, The Bees
+url: http://www.gutenberg.org/ebooks/38902
